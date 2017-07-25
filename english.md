@@ -5,4 +5,3 @@
 * organizing : tổ chức
 * techniques : kỹ thuật
 * systematic : một cách có hệ thống
-
